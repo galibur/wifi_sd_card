@@ -1,0 +1,13 @@
+{
+	"wifi_config":
+		{
+			"ip": "192.168.4.1",
+			"picture_index_start": 1050304,
+			"picture_name_prefix": "P",
+			"picture_url_protocol": "http",
+			"picture_url": "/DCIM/105_PANA/P",
+			"local_picture_directory": "/home/USER_NAME/scripts/wifi_sd_card/pictures/",
+			"min_picture_size": 100000
+		}
+
+}
